@@ -1,0 +1,292 @@
+.navbar{
+    border-bottom: solid 4px #007bff;
+    opacity: .6;
+}
+
+header{
+    min-height: 100vh;
+    background-image:linear-gradient( rgba(38, 58, 235, 0.4) ,rgba(73, 15, 233, 0.4) )  , url(../images/21770.png);
+    background-position: center;
+    background-size: cover;
+}
+u{
+    color: yellow;
+}
+.main-nav{
+    float: right; list-style: none;
+}
+
+.main-nav li{
+    display: inline-block; margin-left: 20px;
+}
+
+.main-nav li a{
+    color: white; text-decoration: none; text-transform: uppercase;
+}
+.main-nav li a:hover{
+    color: rgb(243, 190, 91); text-decoration: underline; 
+}
+.header-box{
+    position: absolute; top:50%; left: 20%;
+}
+h1{
+    color: white; font-size: 40px; text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
+.btn{
+    background-color: rgb(48, 8, 228);
+     color: white;
+     margin-left: 15px;
+     padding: 10px 20px;
+     border-radius: 12px;
+text-decoration: none;
+}
+.btn:hover{
+    background-color: transparent;
+     color: rgb(0, 255, 242);
+    border: solid 1px rgb(0, 217, 255);
+}
+#ahmed{ background-color:#DDF0F8;
+}
+
+ #line{
+     color: darkgoldenrod;
+ }
+ #t{
+     color: darkblue;
+ }
+ #A{
+
+min-height:150px;
+    background-image:linear-gradient( rgba(0, 0, 0, 0.7) ,rgba(0, 0, 0, 0.7) )  , url( ../images/4428861.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+     height: 10px;
+     border-radius:10px;
+}
+ 
+ #B{
+
+min-height:150px;
+    background-image:linear-gradient( rgba(0, 0, 0, 0.7) ,rgba(0, 0, 0, 0.7) )  , url(../images/449936-PF5U7C-989.png );
+    background-position: center;
+    background-size: cover;
+    position: relative;
+     height: 10px;
+     border-radius:10px;
+}
+ 
+ #C{
+min-height:150px;
+    background-image:linear-gradient( rgba(0, 0, 0, 0.7) ,rgba(0, 0, 0, 0.7) )  , url(../images/1026.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+     height: 10px;
+     border-radius:10px;
+}
+ 
+ #D{
+
+min-height:150px;
+    background-image:linear-gradient( rgba(0, 0, 0, 0.7) ,rgba(0, 0, 0, 0.7) )  , url(../images/449936-PF5U7C-989.png );
+    background-position: center;
+    background-size: cover;
+    position: relative;
+     height: 10px;
+     border-radius:10px;
+ }
+ #E{
+
+min-height:150px;
+    background-image:linear-gradient( rgba(0, 0, 0, 0.7) ,rgba(0, 0, 0, 0.7) )  , url(../images/240_F_276055359_zEq0gnr8PuwpQTzg5CpiJCrU778ITiwI.png);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+     height: 10px;
+     border-radius:10px;
+ }
+ #F{
+
+min-height:150px;
+    background-image:linear-gradient( rgba(0, 0, 0, 0.7) ,rgba(0, 0, 0, 0.7) )  , url(../images/240_F_87791698_sbMjNWncup9EilTSxpYb2w3yyrfW2Qvl.png );
+    background-position: center;
+    background-size: cover;
+    position: relative;
+     height: 10px;
+     border-radius:10px;
+ }
+ #G{
+
+min-height:150px;
+    background-image:linear-gradient( rgba(0, 0, 0, 0.7) ,rgba(0, 0, 0, 0.7) )  , url(../images/240_F_283199859_Ynp0pZDNVtuj4zCYY2zCndEnQMkEsyIG.png );
+    background-position: center;
+    background-size: cover;
+    position: relative;
+     height: 10px;
+     border-radius:10px;
+ }
+ #H{
+
+min-height:150px;
+    background-image:linear-gradient( rgba(0, 0, 0, 0.7) ,rgba(0, 0, 0, 0.7) )  , url(../images/240_F_200209004_ZEy19OimfGMfq9YmVjWRQcZ3vh98XyVx.png );
+    background-position: center;
+    background-size: cover;
+    position: relative;
+     height: 10px;
+     border-radius:10px;
+ }
+ #Y{
+
+min-height:150px;
+    background-image:linear-gradient( rgba(0, 0, 0, 0.7) ,rgba(0, 0, 0, 0.7) )  , url(../images/240_F_276055359_zEq0gnr8PuwpQTzg5CpiJCrU778ITiwI.png);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+     height: 10px;
+     border-radius:10px;
+ }
+ #Z{
+
+min-height:150px;
+    background-image:linear-gradient( rgba(0, 0, 0, 0.7) ,rgba(0, 0, 0, 0.7) )  , url(../images/3437.png);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+     height: 10px;
+     border-radius:10px;
+ }
+ #X{
+
+min-height:150px;
+    background-image:linear-gradient( rgba(0, 0, 0, 0.7) ,rgba(0, 0, 0, 0.7) )  , url(../images/66_02_10_big_data_circular_graph.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+     height: 10px;
+     border-radius:10px;
+ }
+ #I{
+
+min-height:150px;
+    background-image:linear-gradient( rgba(0, 0, 0, 0.7) ,rgba(0, 0, 0, 0.7) )  , url(../images/240_F_208260275_GjeFNtvEKt4Q6bp6kxjTqkt0c8QEDEGJ.png);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+     height: 10px;
+     border-radius:10px;
+ }
+
+ #W{
+
+min-height:150px;
+    background-image:linear-gradient( rgba(0, 0, 0, 0.7) ,rgba(0, 0, 0, 0.7) )  , url(../images/240_F_280643914_keGJmrLzskCcoxnBvvQOd0oxNbmoEuCp.png);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+     height: 10px;
+     border-radius:10px;
+ }
+
+ #mada {
+
+     width: 2px;
+      height: 30px;
+     margin-top: 20px;
+     color: white;
+ }
+ 
+ #m{
+     font-size: x-small;
+ }
+ 
+ #pp{
+     font-size: x-small;
+
+ }
+ .ui{
+
+   min-height: 100vh;
+    background-image:linear-gradient( rgba(8, 6, 114, 0.7) ,rgba(20, 0, 92, 0.7) )  , url(../images/group-people-working-out-business-plan-office-1.png );
+    opacity: 0.7;;
+    background-position: center;
+    background-size: cover;}
+
+ 
+ 
+ 
+ #h4 {
+     text-align: center;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+     padding-top: 25%;
+    
+      
+     
+ }
+ .mopile{
+     margin-left:120px;
+ }
+ .xxx{
+     height: 160px;
+ }
+   #customer{
+    width: 50px ; height: 50px; border-radius: 50%; vertical-align: middle;
+   }
+ 
+ #carddd{
+     border: #EAEAEA 3PX solid; 
+    }
+ .immmg{
+        width: 150px; 
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+ #didi{ text-align: center;
+     padding-left: 36%;
+     color: blue;
+     
+ }
+ #btnGroupAddon{
+      background-color: blue;
+      color: white;
+ }
+ .sub{
+     size: 30px;
+ }
+
+footer{
+    background-color:#05184c;
+}
+.ff{
+    font-size: small;
+    text-align: center;
+}
+ 
+   #section h1{
+       font-weight: bold;
+       
+       color: black;
+       size: 20px;
+       width: 30px;
+       
+   }   
+     
+   #icon{
+    font-size:small;
+ }
+ #cardpic
+ {
+border-radius: 50px;
+ }
+ #bbbgbg {
+     margin-left: 35%;
+ }
+
+ 
+  
+  

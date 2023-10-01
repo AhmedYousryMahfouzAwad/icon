@@ -1,0 +1,39 @@
+.project{
+    min-height: 100vh;
+    background-image:linear-gradient( rgba(38, 58, 235, 0.4) ,rgba(73, 15, 233, 0.4) )  , url(../images/21774.png);
+    background-position: center;
+    background-size: cover;
+}
+ .ll{
+     text-align: center;
+     margin: auto;
+     padding-top: 50%;
+     color: white;
+    font-weight: bold;
+    font-size: xx-large;
+    size: 300px;
+    width: 200px;
+    
+ }
+ .placeholde{color: white;
+
+ }
+ .gggg{
+     background-color: rgb(14, 54, 235);
+     color:white;
+      padding-right:10%;
+ }
+  
+#bgX{
+     background-color:  #0E36EB ; 
+}
+#carrrrdD
+{background-color: #C1E3F1;
+
+ }
+   
+     
+#icon{
+ font-size:small;
+}
+
